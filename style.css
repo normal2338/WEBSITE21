@@ -1,0 +1,59 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	background-image: url(pic2.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+.hero
+{
+	position: absolute;
+	width: 1200px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+h1
+{
+	color: white;
+	text-transform: uppercase;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 100px;
+
+}
+.par
+{
+	position: absolute;
+	width: 1000px;
+	margin-left: 50px;
+	margin-top: 0px;
+}
+p
+{
+	color: white;
+	font-size: 22px;
+	text-align: center;
+	word-wrap: normal;
+	margin-top: 150px;
+	
+}
+.contact
+{
+	position: white;
+	width: 1000px;
+	margin-left: 50px;
+	margin-top: 0px;
+}
+p
+{
+	color: white;
+	font-size: 22px;
+	text-align: center;
+	word-wrap: normal;
+	margin-top: 150px;
+}
